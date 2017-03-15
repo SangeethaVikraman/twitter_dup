@@ -1,28 +1,8 @@
 <<<<<<< HEAD
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a twitter clone. This consists of users and their associated microposts (thus constituting a minimalist Twitter-style app).
 
-Things you may want to cover:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-=======
 # twitter_dup
 >>>>>>> 4fd06c6e1eeb621516a538899683e9973592e167
