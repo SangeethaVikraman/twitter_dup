@@ -1,8 +1,3 @@
+# Twitter Clone
 
-# README
-
-This is a twitter clone. This consists of users and their associated microposts (thus constituting a minimalist Twitter-style app).
-
-
-# twitter_dup
-
+A Ruby on Rails app similar to Twitter. Users are able to register with the site and create short posts.
